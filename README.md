@@ -137,8 +137,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   Fetching data on the client-side and integrating it into your Next.js application.  
   *Example:* Use `useEffect` and `fetch` to retrieve data after the component has mounted.
 
-## 📌 How to Use This Course
-
-Each topic provides foundational knowledge and practical examples to build and scale your Next.js applications. Follow along step-by-step, or jump to the sections most relevant to your learning needs.
 
 Happy learning! 🚀
