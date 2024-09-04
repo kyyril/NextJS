@@ -2,21 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## 💰 List of Content 💰
 
-- **Introduction**  
-  An overview of what you'll learn in this course.
-
-- **Pengenalan Next.js**  
-  Introduction to Next.js and its key features.  
-  *Example:* Learn how to create a basic Next.js page by exporting a simple React component.
-
-- **Project Structure**  
-  Understanding the standard project structure in Next.js applications.  
-  *Example:* Explore the `pages` directory and how each file corresponds to a route.
-
-- **Membuat Project**  
-  Step-by-step guide to setting up a new Next.js project.  
-  *Example:* Initialize a new project using `npx create-next-app`.
-
 - **Routing**  
   Basics of routing in Next.js, including creating pages and navigation.  
   *Example:* Create routes by adding files to the `pages` directory, e.g., `about.js` becomes `/about`.
