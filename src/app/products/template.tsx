@@ -1,7 +1,8 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { text } from "stream/consumers";
+import { useState } from "react";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -9,8 +10,14 @@ export default function RootLayout({
 }>) {
   const pathname = usePathname();
   console.log(pathname);
+  const [search, setSearch] = useState("");
   return (
     <>
+      <input
+        type="text"
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+      />
       <ul className="flex gap-5 text-red-600">
         <Link
           className={pathname === "/products/sport" ? "text-blue-600" : ""}
