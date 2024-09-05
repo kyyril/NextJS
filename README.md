@@ -110,14 +110,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   Techniques for fetching data on the server-side for SSR and SSG.  
   *Example:* Use `getStaticProps` or `getServerSideProps` to fetch and pre-render data.
 
-- **Project: YouTube Clone**  
-  Building a YouTube-like application to apply what you've learned.  
-  *Example:* Implement video listing and playback features using Next.js.
-
-- **Project: Fullstack Blog**  
-  Developing a full-stack blog application as a capstone project.  
-  *Example:* Create a blog with features like user authentication, content creation, and commenting.
-
 - **Fetch Data di Client**  
   Fetching data on the client-side and integrating it into your Next.js application.  
   *Example:* Use `useEffect` and `fetch` to retrieve data after the component has mounted.
