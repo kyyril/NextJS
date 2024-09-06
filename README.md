@@ -62,9 +62,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   Capturing and modifying routes before they are processed.  
   *Example:* Use middleware to intercept requests and modify them before they reach the route handler.
 
-- **Fetch Data di Client**  
-  Fetching data on the client-side and integrating it into your Next.js application.  
-  *Example:* Use `useEffect` and `fetch` to retrieve data after the component has mounted.
-
-
 Happy learning! 🚀
